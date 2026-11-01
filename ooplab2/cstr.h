@@ -3,6 +3,7 @@
 #include <cstdlib>
 #include <cstring>
 
+
 class Cstr {
 	char* a;
 	static char* genrand(int len) {
